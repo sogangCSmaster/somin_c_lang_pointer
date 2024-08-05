@@ -1,0 +1,2 @@
+# somin_c_lang_pointer
+somin_c_lang_pointer
